@@ -1,7 +1,9 @@
 # Bio-Inspired-Intelligence-AE4350-DG-
 
 1 EA simple viability check:             simple check
+
 2 Sectioning and counterflow serpentine: increasing complexity (small scale) and sensitivity analysis
+
 3 Highway is not distbr. :               Full model
 
 
